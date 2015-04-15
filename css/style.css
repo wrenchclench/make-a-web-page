@@ -1,0 +1,57 @@
+body {
+  background-color:teal;
+  font-size: 20px;
+    margin: 8px;
+    text-align: left;
+    color: black;
+}
+
+.highlevel{
+	background-color: rgb(79, 140, 207);
+	 border-radius: 20px;
+	 padding: 10px;
+}
+
+.details1{
+	background-color: rgb(79, 140, 207);
+	 border-radius: 20px;
+	 padding: 10px;
+}
+
+.details2{
+	background-color: rgb(79, 140, 207);
+	 border-radius: 20px;
+	 padding: 10px;
+}
+
+.elements{
+	background-color: rgb(79, 140, 207);
+	 border-radius: 20px;
+	 padding: 10px;
+}
+
+.htmldoc{
+	background-color: rgb(79, 140, 207);
+	 border-radius: 20px;
+	 padding: 10px;
+}
+
+.Header {
+  background-color:orange;
+  font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1{
+  color:white
+}
+
+h2{
+  color:white
+}
+
+body{
+  font-family:Helvetica;
+}
+
